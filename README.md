@@ -33,10 +33,13 @@ Aim Your Shot: Move the target marker using W/A/S/D.
 Take the Freekick: Click Mouse Left Button to shoot.
 
 Score Points:
+
 Top corners: 9 points
+
 Bottom corners: 5 points
+
 Other areas: 3 points
 
-Timer Mode: In Timer Reduction mode, you have a limited time for each shot. The timer gets shorter after every goal.
+Timer Mode: In Timer Reduction mode, you have a limited time for each shot. The time gets 3 seconds shorter after every goal.
 
 Game Over: The game ends after a set number of misses. Try again to beat your high score!
