@@ -1,5 +1,5 @@
 Football Freekick Game
-A 3D football freekick simulation game built with Python and OpenGL (PyOpenGL + GLUT). Take freekicks, beat the wall and the keeper, and aim for the highest score!
+A 3D football freekick simulation game built with Python and OpenGL (OpenGL + GLUT). Take freekicks, beat the wall and the keeper, and aim for the highest score!
 
 Features:
 
@@ -14,10 +14,16 @@ Game Over & Restart: Try again and beat your best score!
 
 Controls:
 
-W/A/S/D to	Move target marker
+W/A/S/D to Move target marker
+
 Click Mouse Left Button to Shoot
+
 Arrow Keys to Rotate camera
+
 Click Play/Pause button to Pause/Resume game
+
+Click End button to End the Game
+
 Click Mouse Right Button to change Point of View
 
 How to Play:
